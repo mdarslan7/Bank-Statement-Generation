@@ -2,7 +2,7 @@
 
 ## Overview
 
-This assignment project provides a set of services for generating PDF bank statements for users in a banking application. The services include a basic API, a database service, a PDF generation service, and an email service. These services work together to fulfill user requests for bank statements within a specified time period.
+This project provides a set of services for generating PDF bank statements for users in a banking application. The services include a basic API, a database service, a PDF generation service, and an email service. These services work together to fulfill user requests for bank statements within a specified time period.
 
 ## Services
 
